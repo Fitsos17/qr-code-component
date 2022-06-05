@@ -46,12 +46,12 @@ body {
 .title {
     font-size: 1.5rem;
     color: var(--dark-blue);
-    width: 15vw;
+    width: 12vw;
     padding: 20px 0 20px 0;
 }
 
 .description {
-    width: 13vw;
+    width: 10vw;
     color: var(--grayish-blue);
     padding-bottom: 20px;
 }
