@@ -45,14 +45,14 @@ body {
 }
 
 .title {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: var(--dark-blue);
-    width: 20vw;
+    width: 15vw;
     padding: 20px 0 20px 0;
 }
 
 .description {
-    width: 13vw;
+    width: 14vw;
     color: var(--grayish-blue);
     padding-bottom: 20px;
 }
