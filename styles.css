@@ -29,12 +29,13 @@ body {
 .card {
     background-color: var(--white);
     border-radius: 20px;
-    padding: 20px;
+    padding: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
+    box-shadow: 1px 2px 25px 1px rgba(0, 0, 0, 0.10);
 }
 
 .img {
@@ -44,14 +45,14 @@ body {
 }
 
 .title {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: var(--dark-blue);
     width: 20vw;
     padding: 20px 0 20px 0;
 }
 
 .description {
-    width: 15vw;
+    width: 13vw;
     color: var(--grayish-blue);
     padding-bottom: 20px;
 }
