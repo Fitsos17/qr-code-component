@@ -47,12 +47,12 @@ body {
 .title {
     font-size: 1.2rem;
     color: var(--dark-blue);
-    width: 13vw;
+    width: 20vw;
     padding: 20px 0 20px 0;
 }
 
 .description {
-    width: 14vw;
+    width: 16vw;
     color: var(--grayish-blue);
     padding-bottom: 20px;
 }
